@@ -1,0 +1,9 @@
+---
+title: "Project #1"
+format: html
+editor: visual
+---
+
+## Approach 
+
+After carefully reading the assignment I have first determined what it is that needs to be done. I will structure my approach from that understanding. We want to take a player and return the pre-average rating of opponents. We will only consider W, L, and D. Therefore, my first step in this assignment is to take be able to filter through the data-set and find every opponent for the selected player. After determining each player i need to filter the data even further and only return matches that were W, L, or D. With this new data-set I need to take every opponents pre-rating and calculate an average. This is the result we are looking for. What will also be critical is storing each players information in some form of list or using an SQL database have the information for each player accessible.
